@@ -1,0 +1,15 @@
+/root/Aprendiendo-C-/MyApp/bin/Debug/net8.0/MyApp
+/root/Aprendiendo-C-/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/root/Aprendiendo-C-/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/root/Aprendiendo-C-/MyApp/bin/Debug/net8.0/MyApp.dll
+/root/Aprendiendo-C-/MyApp/bin/Debug/net8.0/MyApp.pdb
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.sourcelink.json
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.dll
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.pdb
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/root/Aprendiendo-C-/MyApp/obj/Debug/net8.0/ref/MyApp.dll
